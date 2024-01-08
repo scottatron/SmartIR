@@ -26,7 +26,7 @@ MANIFEST_URL = (
     "custom_components/smartir/manifest.json")
 REMOTE_BASE_URL = (
     "https://raw.githubusercontent.com/"
-    "smartHomeHub/SmartIR/{}/"
+    "scottatron/SmartIR/{}/"
     "custom_components/smartir/")
 COMPONENT_ABS_DIR = os.path.dirname(
     os.path.abspath(__file__))
